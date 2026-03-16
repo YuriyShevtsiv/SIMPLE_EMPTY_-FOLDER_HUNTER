@@ -15,7 +15,8 @@ This project is ideal for beginners learning:
 - Basic application structure using classes
 - Event‑driven programming
 
----
+---<img width="770" height="543" alt="Screenshot 2026-03-16 195424" src="https://github.com/user-attachments/assets/fbb2916a-3558-4f53-942e-838045738c6e" />
+
 
 ## 🚀 Features
 
